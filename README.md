@@ -78,11 +78,11 @@ bin/logstash-plugin install /your/local/plugin/logstash-filter-HelloWorld-0.1.0.
 
 ### Resources:
 
-- (new filter plugin)[https://www.elastic.co/guide/en/logstash/current/filter-new-plugin.html]
-- (new input plugin)[https://www.elastic.co/guide/en/logstash/current/input-new-plugin.html]
-- (Generate new plugin)[https://www.elastic.co/guide/en/logstash/current/plugin-generator.html]
-- (Plugin Management)[https://www.elastic.co/guide/en/logstash/current/working-with-plugins.html]
-- (Added other logstash plugin as a dependency)[https://github.com/logstash-plugins/logstash-filter-mutate/blob/master/logstash-filter-mutate.gemspec]
-- (`stdin { }`)[https://www.elastic.co/guide/en/logstash/current/config-examples.html]
-- (Setting up RubyGems Package on Github)[https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages#authenticating-to-github-packages]
+- [new filter plugin](https://www.elastic.co/guide/en/logstash/current/filter-new-plugin.html)
+- [new input plugin](https://www.elastic.co/guide/en/logstash/current/input-new-plugin.html)
+- [Generate new plugin](https://www.elastic.co/guide/en/logstash/current/plugin-generator.html)
+- [Plugin Management](https://www.elastic.co/guide/en/logstash/current/working-with-plugins.html)
+- [(Added other logstash plugin as a dependency](https://github.com/logstash-plugins/logstash-filter-mutate/blob/master/logstash-filter-mutate.gemspec)
+- [`stdin { }`](https://www.elastic.co/guide/en/logstash/current/config-examples.html)
+- [Setting up RubyGems Package on Github](https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages#authenticating-to-github-packages)
 
