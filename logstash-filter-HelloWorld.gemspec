@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'logstash-filter-HelloWorld'
+  s.name          = 'logstash-filter-helloworld'
   s.version       = '0.1.1'
   s.licenses      = ['Apache-2.0']
   s.summary       = 'It is a simple hello world plugin'
