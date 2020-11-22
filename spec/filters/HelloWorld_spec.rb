@@ -36,7 +36,7 @@ describe LogStash::Filters::Helloworld do
     end
   end
 
-  describe "if no hello or world in the text anywhere shouldnot have a type" do
+  describe "if no hello or world in the text anywhere it should not include type" do
     let(:config) do <<-CONFIG
       filter {
         HelloWorld {
