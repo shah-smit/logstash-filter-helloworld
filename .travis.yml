@@ -3,6 +3,8 @@ import:
 deploy:
   provider: rubygems
   api_key: $GITHUB_TOKEN
+  file_glob: true
+  file: logstash-filter-helloworld-*.gem
   skip_cleanup: true
   gemspec: logstash-filter-HelloWorld.gemspec
   on:
